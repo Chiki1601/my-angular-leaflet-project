@@ -58,5 +58,4 @@ src
 
 
 ##output
-<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/287a5e39-1f2b-46c6-9bca-5befb74c74b7" />
-
+![OpenStreetMap Output](./screenshots/output.png)
