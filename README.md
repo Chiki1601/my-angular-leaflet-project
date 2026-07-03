@@ -33,18 +33,11 @@ npx @angular/cli@22 new my-leaflet-map-app
 npm install leaflet
 npm install --save-dev @types/leaflet
 
-
+```
 ## Run Application
+```
 ng serve
---------
-## Project Structure
-
-
----
-
-**## Project Structure**
-
-````markdown
+```
 ## Project Structure
 
 ```text
@@ -55,7 +48,8 @@ src
            ├── map.html
            ├── map.scss
            └── map.spec.ts
+```
 
-<h2>Output</h2>
+##Output
 
 <img src="https://raw.githubusercontent.com/Chiki1601/my-angular-leaflet-project/main/screenshots/output.png" width="800">
