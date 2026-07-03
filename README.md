@@ -58,4 +58,4 @@ src
 
 ## Output
 
-![OpenStreetMap Output](https://raw.githubusercontent.com/Chiki1601/my-angular-leaflet-project/main/screenshots/output.png)
+![OpenStreetMap Output] (https://raw.githubusercontent.com/Chiki1601/my-angular-leaflet-project/refs/heads/main/screenshots/output.png)
