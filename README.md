@@ -56,6 +56,6 @@ src
            ├── map.scss
            └── map.spec.ts
 
-## Output
+<h2>Output</h2>
 
-![OpenStreetMap Output] (https://raw.githubusercontent.com/Chiki1601/my-angular-leaflet-project/refs/heads/main/screenshots/output.png)
+<img src="https://raw.githubusercontent.com/Chiki1601/my-angular-leaflet-project/main/screenshots/output.png" width="800">
